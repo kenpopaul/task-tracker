@@ -9,7 +9,7 @@ const Header = ({ title }) => {
 }
 
 Header.defaultProps = {
-  title: 'Task Tracker',
+  title: 'Task Tracker 1.0',
 }
 
 Header.propTypes = {
